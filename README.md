@@ -13,6 +13,8 @@ O player permite reproduzir músicas e exibir as letras de forma sincronizada co
 
 ---
 
+---
+
 ## 📂 Estrutura do Projeto
 
 playerMusic/
