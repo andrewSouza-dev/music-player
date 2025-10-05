@@ -15,7 +15,7 @@ O player permite reproduzir músicas e exibir as letras de forma sincronizada co
 
 ## 📂 Estrutura do Projeto
 
-tocadorMusic/
+playerMusic/
 │── assets/
 │ ├── audio/ # Arquivos de música (.mp3)
 │ ├── images/ # Capas de música
