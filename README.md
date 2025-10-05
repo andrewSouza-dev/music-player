@@ -1,4 +1,4 @@
-**Player de música com sincronização de letras (lyrics)** feito em **HTML, CSS e JavaScript**.  
+## Player de música com sincronização de letras (lyrics) feito em HTML, CSS e JavaScript.  
 
 O player permite reproduzir músicas e exibir as letras de forma sincronizada com o tempo da faixa.  
 
