@@ -13,7 +13,7 @@ O player permite reproduzir músicas e exibir as letras de forma sincronizada co
 
 ---
 
- 📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 tocadorMusic/
 │── assets/
@@ -31,6 +31,7 @@ tocadorMusic/
 │── .gitignore # Ignora arquivos no Git
 │── index.html # Estrutura principal do player
 │── README.md # Documentação do projeto
+
 ---
 
 ## 🛠️ Como Usar
