@@ -13,27 +13,6 @@ O player permite reproduzir músicas e exibir as letras de forma sincronizada co
 
 ---
 
-## 📂 Estrutura do Projeto
-
-playerMusic/
-│── assets/
-│ ├── audio/ # Arquivos de música (.mp3)
-│ ├── images/ # Capas de música
-│ └── videos/ # Vídeos de fundo
-│
-│── public/
-│ ├── media/ # Arquivos de media publicos
-│
-│── src/
-│ ├── script.js # Lógica de reprodução e sincronização das letras
-│ └── style.css # Estilização do player
-│
-│── .gitignore # Ignora arquivos no Git
-│── index.html # Estrutura principal do player
-│── README.md # Documentação do projeto
-
----
-
 ## 🛠️ Como Usar
 
 1. Clone este repositório:
